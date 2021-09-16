@@ -1,0 +1,12 @@
+Dla malych wartosci M,N < 5 (N=3 && M=2, N=2 && M=4):
+- zdarzalo sie ze do wyciagania z pieca pierwszy byl wpuszczany kucharz, ktory pozniej wlozyl swoja pizze.
+- kucharze zaraz po przygotowaniu pizzy byli dopuszczani do pieca, zeby ja wlozyc = nie czekali z pizza w reku
+- stol sie szybko wypelnial calkowicie, ale jak tylko odbiorca wzial pizze ze stolu, to czekajacy kucharz od razu dodawal swoja na stol.
+
+Dla M,N > 5 (M,N = 7):
+- zdarzalo sie ze do wyciagania z pieca pierwszy byl wpuszczany kucharz, ktory pozniej wlozyl swoja pizze.
+- gdy zabraklo miejsca w piecu, czasami najpierw wpuszczani do pieca byli kucharze wyciagajacy pizze - wchodzilo ich np 4 i
+dopiero jak wyjeli swoja pizze to dopuszczani byli do pieca ci czekajacy az sie zwolni miejsce w piecu do wlozenia swojej pizzy.
+- piec byl kolejno wypelniany az do pelnego wypelnienia, jesli tylko byla odpowiednia liczba kucharzy czekajacych z pizza w reku
+
+Powyzsze sytuacje powtarzaja sie dla systemu V, jak i POSIX.
