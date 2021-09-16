@@ -1,0 +1,12 @@
+------------ short files ---------------------
+Czas wykonania programu uzywajac funkcji bibliotecznych: 0.00017799999999999998982758153687200319836847484112 s
+------------ short files ---------------------
+Czas wykonania programu uzywajac funkcji systemowych: 0.00074299999999999995388411111463256020215339958668 s
+------------ medium files ---------------------
+Czas wykonania programu uzywajac funkcji bibliotecznych: 0.00467099999999999980493381457335999584756791591644 s
+------------ medium files ---------------------
+Czas wykonania programu uzywajac funkcji systemowych: 0.01513399999999999988309351550697101629339158535004 s
+------------ long files ---------------------
+Czas wykonania programu uzywajac funkcji bibliotecznych: 5.46539199999999958379248710116371512413024902343750 s
+------------ long files ---------------------
+Czas wykonania programu uzywajac funkcji systemowych: 31.39440699999999750957613287027925252914428710937500 s

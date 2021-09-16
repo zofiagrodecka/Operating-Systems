@@ -1,0 +1,2 @@
+Czas wykonania programu uzywajac funkcji bibliotecznych: 0.29174499999999997656985328831069637089967727661133 s
+Czas wykonania programu uzywajac funkcji systemowych: 1.73974799999999985011811531876446679234504699707031 s
