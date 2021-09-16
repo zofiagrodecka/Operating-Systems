@@ -1,0 +1,11 @@
+Potoki nazwane dzialaja dla niezaleznych procesow.
+Dla N < PIPE_BUF:
+    bez uzycia flock() program dziala prawidlowo dla:
+    1. wielu producentow i 1 konsumenta
+    2. 1 producenta i wielu konsumentow
+    3. wielu producentow i wielu konsumentow,
+
+Dla N > PIPE_BUF:
+    Wydaje mi sie, ze wtedy program w ogole nie bedzie dzialal, poniewaz wtedy to co zostalo w potoku bedzie sie
+    laczyc z tym, co zostalo do niego pozniej dodane i program nie bedzie w stanie rozpoznac gdzie mozna podzielic
+    te napisy.

@@ -1,0 +1,11 @@
+skladnik1 = sort
+skladnik2 = grep main | wc -l
+skladnik3 = ls -l
+skladnik4 = cat /etc/passwd
+skladnik5 = ps -e
+skladnik6 = wc -l
+
+skladnik3 | skladnik1 | skladnik2
+skladnik3
+skladnik4 | skladnik6
+skladnik5 | skladnik1 | skladnik6
