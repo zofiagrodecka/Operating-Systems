@@ -1,0 +1,42 @@
+------------ STATIC library ---------------------
+create_table: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 10/0/0 msec
+merge_files: measured times real/user/system: 0/0/0 msec
+remove_row: measured times real/user/system: 0/0/0 msec
+remove_block: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 60/20/30 msec
+merge_files: measured times real/user/system: 20/10/10 msec
+remove_row: measured times real/user/system: 0/0/0 msec
+remove_block: measured times real/user/system: 0/10/0 msec
+merge_files: measured times real/user/system: 630/310/230 msec
+merge_files: measured times real/user/system: 1150/310/610 msec
+remove_row: measured times real/user/system: 0/0/0 msec
+remove_block: measured times real/user/system: 80/50/40 msec
+------------ SHARED library ---------------------
+create_table: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 0/0/0 msec
+remove_row: measured times real/user/system: 0/0/0 msec
+remove_block: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 60/10/40 msec
+merge_files: measured times real/user/system: 20/10/10 msec
+remove_row: measured times real/user/system: 0/0/0 msec
+remove_block: measured times real/user/system: 0/10/0 msec
+merge_files: measured times real/user/system: 650/250/310 msec
+merge_files: measured times real/user/system: 750/270/300 msec
+remove_row: measured times real/user/system: 0/0/0 msec
+remove_block: measured times real/user/system: 90/60/30 msec
+------------ DYNAMIC library ---------------------
+create_table: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 10/0/0 msec
+remove_row: measured times real/user/system: 0/0/0 msec
+remove_block: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 70/30/30 msec
+merge_files: measured times real/user/system: 20/10/10 msec
+remove_row: measured times real/user/system: 0/0/0 msec
+remove_block: measured times real/user/system: 10/0/0 msec
+merge_files: measured times real/user/system: 610/290/280 msec
+merge_files: measured times real/user/system: 670/290/290 msec
+remove_row: measured times real/user/system: 0/0/0 msec
+remove_block: measured times real/user/system: 100/70/30 msec

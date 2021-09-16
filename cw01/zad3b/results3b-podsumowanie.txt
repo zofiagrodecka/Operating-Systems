@@ -1,0 +1,129 @@
+-----------------------optymalizacja O1----------------
+------------ STATIC library ---------------------
+create_table: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 0/0/0 msec
+remove_row: measured times real/user/system: 0/0/0 msec
+remove_block: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 80/30/30 msec
+merge_files: measured times real/user/system: 20/10/10 msec
+remove_row: measured times real/user/system: 0/0/0 msec
+remove_block: measured times real/user/system: 10/10/0 msec
+merge_files: measured times real/user/system: 650/330/230 msec
+merge_files: measured times real/user/system: 680/250/340 msec
+remove_row: measured times real/user/system: 0/0/0 msec
+remove_block: measured times real/user/system: 80/50/30 msec
+------------ SHARED library ---------------------
+create_table: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 0/0/0 msec
+remove_row: measured times real/user/system: 0/0/0 msec
+remove_block: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 80/20/50 msec
+merge_files: measured times real/user/system: 20/10/0 msec
+remove_row: measured times real/user/system: 0/0/0 msec
+remove_block: measured times real/user/system: 10/0/0 msec
+merge_files: measured times real/user/system: 660/180/410 msec
+merge_files: measured times real/user/system: 670/290/270 msec
+remove_row: measured times real/user/system: 0/0/0 msec
+remove_block: measured times real/user/system: 120/80/20 msec
+------------ DYNAMIC library ---------------------
+create_table: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 10/0/0 msec
+remove_row: measured times real/user/system: 0/0/0 msec
+remove_block: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 60/20/30 msec
+merge_files: measured times real/user/system: 10/0/10 msec
+remove_row: measured times real/user/system: 0/0/0 msec
+remove_block: measured times real/user/system: 10/10/0 msec
+merge_files: measured times real/user/system: 650/250/330 msec
+merge_files: measured times real/user/system: 670/300/260 msec
+remove_row: measured times real/user/system: 0/0/0 msec
+remove_block: measured times real/user/system: 90/60/30 msec
+-----------------------optymalizacja O2----------------
+------------ STATIC library ---------------------
+create_table: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 10/0/0 msec
+remove_row: measured times real/user/system: 0/0/0 msec
+remove_block: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 60/30/30 msec
+merge_files: measured times real/user/system: 20/0/10 msec
+remove_row: measured times real/user/system: 0/0/0 msec
+remove_block: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 830/350/360 msec
+merge_files: measured times real/user/system: 1570/290/1060 msec
+remove_row: measured times real/user/system: 0/0/0 msec
+remove_block: measured times real/user/system: 100/60/40 msec
+------------ SHARED library ---------------------
+create_table: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 10/0/0 msec
+remove_row: measured times real/user/system: 0/0/0 msec
+remove_block: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 70/30/30 msec
+merge_files: measured times real/user/system: 10/0/10 msec
+remove_row: measured times real/user/system: 0/0/0 msec
+remove_block: measured times real/user/system: 10/10/0 msec
+merge_files: measured times real/user/system: 660/310/260 msec
+merge_files: measured times real/user/system: 910/270/350 msec
+remove_row: measured times real/user/system: 0/0/0 msec
+remove_block: measured times real/user/system: 100/70/20 msec
+------------ DYNAMIC library ---------------------
+create_table: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 0/0/0 msec
+remove_row: measured times real/user/system: 0/0/0 msec
+remove_block: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 70/40/20 msec
+merge_files: measured times real/user/system: 10/0/10 msec
+remove_row: measured times real/user/system: 0/0/0 msec
+remove_block: measured times real/user/system: 10/10/0 msec
+merge_files: measured times real/user/system: 670/300/270 msec
+merge_files: measured times real/user/system: 730/300/280 msec
+remove_row: measured times real/user/system: 0/0/0 msec
+remove_block: measured times real/user/system: 130/80/40 msec
+-----------------------optymalizacja O3----------------
+------------ STATIC library ---------------------
+create_table: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 10/0/0 msec
+merge_files: measured times real/user/system: 0/0/0 msec
+remove_row: measured times real/user/system: 0/0/0 msec
+remove_block: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 60/20/30 msec
+merge_files: measured times real/user/system: 20/10/10 msec
+remove_row: measured times real/user/system: 0/0/0 msec
+remove_block: measured times real/user/system: 0/10/0 msec
+merge_files: measured times real/user/system: 630/310/230 msec
+merge_files: measured times real/user/system: 1150/310/610 msec
+remove_row: measured times real/user/system: 0/0/0 msec
+remove_block: measured times real/user/system: 80/50/40 msec
+------------ SHARED library ---------------------
+create_table: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 0/0/0 msec
+remove_row: measured times real/user/system: 0/0/0 msec
+remove_block: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 60/10/40 msec
+merge_files: measured times real/user/system: 20/10/10 msec
+remove_row: measured times real/user/system: 0/0/0 msec
+remove_block: measured times real/user/system: 0/10/0 msec
+merge_files: measured times real/user/system: 650/250/310 msec
+merge_files: measured times real/user/system: 750/270/300 msec
+remove_row: measured times real/user/system: 0/0/0 msec
+remove_block: measured times real/user/system: 90/60/30 msec
+------------ DYNAMIC library ---------------------
+create_table: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 10/0/0 msec
+remove_row: measured times real/user/system: 0/0/0 msec
+remove_block: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 70/30/30 msec
+merge_files: measured times real/user/system: 20/10/10 msec
+remove_row: measured times real/user/system: 0/0/0 msec
+remove_block: measured times real/user/system: 10/0/0 msec
+merge_files: measured times real/user/system: 610/290/280 msec
+merge_files: measured times real/user/system: 670/290/290 msec
+remove_row: measured times real/user/system: 0/0/0 msec
+remove_block: measured times real/user/system: 100/70/30 msec
