@@ -1,0 +1,9 @@
+Po wykonaniu funkcji fork proces potomny dziedziczy po procesie macierzystym wartości maski sygnałów
+oraz ustalenia dotyczące obsługi sygnałów - ignorowanie oraz odbieranie (handler).
+Nie dostaje on nieobsluzonych sygnalow procesu macierzystego.
+
+Po wykonaniu funkcji z rodziny exec nowy program obsluguje ignorowanie sygnalu, ktory ma byc ignorowany w procesie wywolujacym.
+Jednak, nie dziedziczy on mozliwosci przechwytywania sygnalow, poniewaz adres do funkcji handlera przekazany do funkcji signal
+stracil swoje znaczenie w nowym programie. Zatem, takie wygnaly staja sie sygnalami konczacymi wykonywanie nowego programu.
+Jesli chodzi o maskowanie oraz pending, zachowuje sie on analogicznie do funkcji fork. Dziedziczy wartosci maski sygnalow,
+ale nie dostaje nieobsluzonych sygnalow procesu wywolujacego.
