@@ -1,0 +1,347 @@
+------------ WERSJA 1 ---------------------
+Wymiary obrazu:
+w: 256, h: 256, m: 255
+Liczba watkow: 1
+Thread time: 684 us
+Total time: 1851 us
+---------------------------
+Wymiary obrazu:
+w: 256, h: 256, m: 255
+Liczba watkow: 2
+Thread time: 402 us
+Thread time: 1327 us
+Total time: 2544 us
+---------------------------
+Wymiary obrazu:
+w: 256, h: 256, m: 255
+Liczba watkow: 4
+Thread time: 299 us
+Thread time: 515 us
+Thread time: 1203 us
+Thread time: 928 us
+Total time: 2566 us
+---------------------------
+Wymiary obrazu:
+w: 256, h: 256, m: 255
+Liczba watkow: 8
+Thread time: 227 us
+Thread time: 248 us
+Thread time: 252 us
+Thread time: 158 us
+Thread time: 763 us
+Thread time: 132 us
+Thread time: 922 us
+Thread time: 789 us
+Total time: 2630 us
+---------------------------
+Wymiary obrazu:
+w: 256, h: 256, m: 255
+Liczba watkow: 16
+Thread time: 84 us
+Thread time: 93 us
+Thread time: 142 us
+Thread time: 218 us
+Thread time: 43 us
+Thread time: 49 us
+Thread time: 91 us
+Thread time: 150 us
+Thread time: 259 us
+Thread time: 279 us
+Thread time: 143 us
+Thread time: 318 us
+Thread time: 668 us
+Thread time: 199 us
+Thread time: 684 us
+Thread time: 469 us
+Total time: 3491 us
+---------------------------
+~*~
+Wymiary obrazu:
+w: 250, h: 360, m: 255
+Liczba watkow: 1
+Thread time: 685 us
+Total time: 2054 us
+---------------------------
+Wymiary obrazu:
+w: 250, h: 360, m: 255
+Liczba watkow: 2
+Thread time: 393 us
+Thread time: 787 us
+Total time: 2172 us
+---------------------------
+Wymiary obrazu:
+w: 250, h: 360, m: 255
+Liczba watkow: 4
+Thread time: 160 us
+Thread time: 402 us
+Thread time: 807 us
+Thread time: 510 us
+Total time: 2229 us
+---------------------------
+Wymiary obrazu:
+w: 250, h: 360, m: 255
+Liczba watkow: 8
+Thread time: 387 us
+Thread time: 379 us
+Thread time: 216 us
+Thread time: 297 us
+Thread time: 434 us
+Thread time: 536 us
+Thread time: 638 us
+Thread time: 320 us
+Total time: 3011 us
+---------------------------
+Wymiary obrazu:
+w: 250, h: 360, m: 255
+Liczba watkow: 16
+Thread time: 122 us
+Thread time: 180 us
+Thread time: 230 us
+Thread time: 109 us
+Thread time: 106 us
+Thread time: 251 us
+Thread time: 136 us
+Thread time: 101 us
+Thread time: 71 us
+Thread time: 28 us
+Thread time: 44 us
+Thread time: 201 us
+Thread time: 153 us
+Thread time: 88 us
+Thread time: 110 us
+Thread time: 101 us
+Total time: 3546 us
+---------------------------
+~*~
+Wymiary obrazu:
+w: 512, h: 512, m: 245
+Liczba watkow: 1
+Thread time: 2091 us
+Total time: 5133 us
+---------------------------
+Wymiary obrazu:
+w: 512, h: 512, m: 245
+Liczba watkow: 2
+Thread time: 1487 us
+Thread time: 2969 us
+Total time: 6293 us
+---------------------------
+Wymiary obrazu:
+w: 512, h: 512, m: 245
+Liczba watkow: 4
+Thread time: 922 us
+Thread time: 4044 us
+Thread time: 2867 us
+Thread time: 2830 us
+Total time: 7052 us
+---------------------------
+Wymiary obrazu:
+w: 512, h: 512, m: 245
+Liczba watkow: 8
+Thread time: 1340 us
+Thread time: 917 us
+Thread time: 470 us
+Thread time: 1459 us
+Thread time: 2376 us
+Thread time: 2475 us
+Thread time: 1828 us
+Thread time: 2225 us
+Total time: 6969 us
+---------------------------
+Wymiary obrazu:
+w: 512, h: 512, m: 245
+Liczba watkow: 16
+Thread time: 670 us
+Thread time: 908 us
+Thread time: 402 us
+Thread time: 579 us
+Thread time: 487 us
+Thread time: 635 us
+Thread time: 741 us
+Thread time: 2004 us
+Thread time: 171 us
+Thread time: 371 us
+Thread time: 340 us
+Thread time: 380 us
+Thread time: 750 us
+Thread time: 227 us
+Thread time: 502 us
+Thread time: 613 us
+Total time: 7488 us
+---------------------------
+ 
+------------ WERSJA 2 ---------------------
+Wymiary obrazu:
+w: 256, h: 256, m: 255
+Liczba watkow: 1
+Thread time: 143 us
+Total time: 363 us
+---------------------------
+Wymiary obrazu:
+w: 256, h: 256, m: 255
+Liczba watkow: 2
+Thread time: 82 us
+Thread time: 170 us
+Total time: 397 us
+---------------------------
+Wymiary obrazu:
+w: 256, h: 256, m: 255
+Liczba watkow: 4
+Thread time: 57 us
+Thread time: 94 us
+Thread time: 176 us
+Thread time: 63 us
+Total time: 697 us
+---------------------------
+Wymiary obrazu:
+w: 256, h: 256, m: 255
+Liczba watkow: 8
+Thread time: 38 us
+Thread time: 54 us
+Thread time: 83 us
+Thread time: 26 us
+Thread time: 22 us
+Thread time: 45 us
+Thread time: 61 us
+Thread time: 70 us
+Total time: 1184 us
+---------------------------
+Wymiary obrazu:
+w: 256, h: 256, m: 255
+Liczba watkow: 16
+Thread time: 59 us
+Thread time: 69 us
+Thread time: 75 us
+Thread time: 53 us
+Thread time: 89 us
+Thread time: 85 us
+Thread time: 13 us
+Thread time: 46 us
+Thread time: 12 us
+Thread time: 61 us
+Thread time: 29 us
+Thread time: 53 us
+Thread time: 24 us
+Thread time: 13 us
+Thread time: 44 us
+Thread time: 199 us
+Total time: 1891 us
+---------------------------
+~*~
+Wymiary obrazu:
+w: 250, h: 360, m: 255
+Liczba watkow: 1
+Thread time: 195 us
+Total time: 414 us
+---------------------------
+Wymiary obrazu:
+w: 250, h: 360, m: 255
+Liczba watkow: 2
+Thread time: 210 us
+Thread time: 514 us
+Total time: 785 us
+---------------------------
+Wymiary obrazu:
+w: 250, h: 360, m: 255
+Liczba watkow: 4
+Thread time: 189 us
+Thread time: 187 us
+Thread time: 231 us
+Thread time: 110 us
+Total time: 876 us
+---------------------------
+Wymiary obrazu:
+w: 250, h: 360, m: 255
+Liczba watkow: 8
+Thread time: 178 us
+Thread time: 128 us
+Thread time: 155 us
+Thread time: 217 us
+Thread time: 239 us
+Thread time: 100 us
+Thread time: 72 us
+Thread time: 61 us
+Total time: 1499 us
+---------------------------
+Wymiary obrazu:
+w: 250, h: 360, m: 255
+Liczba watkow: 16
+Thread time: 109 us
+Thread time: 109 us
+Thread time: 139 us
+Thread time: 340 us
+Thread time: 202 us
+Thread time: 139 us
+Thread time: 80 us
+Thread time: 26 us
+Thread time: 76 us
+Thread time: 19 us
+Thread time: 123 us
+Thread time: 58 us
+Thread time: 75 us
+Thread time: 39 us
+Thread time: 161 us
+Thread time: 275 us
+Total time: 2437 us
+---------------------------
+~*~
+Wymiary obrazu:
+w: 512, h: 512, m: 245
+Liczba watkow: 1
+Thread time: 617 us
+Total time: 843 us
+---------------------------
+Wymiary obrazu:
+w: 512, h: 512, m: 245
+Liczba watkow: 2
+Thread time: 785 us
+Thread time: 364 us
+Total time: 1140 us
+---------------------------
+Wymiary obrazu:
+w: 512, h: 512, m: 245
+Liczba watkow: 4
+Thread time: 549 us
+Thread time: 277 us
+Thread time: 217 us
+Thread time: 548 us
+Total time: 1357 us
+---------------------------
+Wymiary obrazu:
+w: 512, h: 512, m: 245
+Liczba watkow: 8
+Thread time: 270 us
+Thread time: 241 us
+Thread time: 407 us
+Thread time: 1096 us
+Thread time: 906 us
+Thread time: 463 us
+Thread time: 864 us
+Thread time: 496 us
+Total time: 1686 us
+---------------------------
+Wymiary obrazu:
+w: 512, h: 512, m: 245
+Liczba watkow: 16
+Thread time: 318 us
+Thread time: 318 us
+Thread time: 296 us
+Thread time: 244 us
+Thread time: 674 us
+Thread time: 599 us
+Thread time: 258 us
+Thread time: 239 us
+Thread time: 260 us
+Thread time: 227 us
+Thread time: 375 us
+Thread time: 596 us
+Thread time: 159 us
+Thread time: 158 us
+Thread time: 101 us
+Thread time: 76 us
+Total time: 4016 us
+---------------------------
+
+WNIOSKI:
+- w obydwu wersjach czas rosnie wraz ze wzrostem liczby watkow oraz wraz ze wzrostem rozmiaru obrazu
+- wersja 2 (block) jest szybsza, jej czas calkowity dla 16 watkow jest porownywalny, a nawet krotszy niz czas calkowity wersji 1 dla 1 watku
