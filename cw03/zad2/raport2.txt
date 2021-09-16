@@ -1,0 +1,7 @@
+create_table: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 0/0/0 msec
+merge_files: measured times real/user/system: 30/0/10 msec
+merge_files: measured times real/user/system: 80/30/20 msec
+merge_files: measured times real/user/system: 1760/310/630 msec
+merge_files: measured times real/user/system: 1870/350/630 msec
